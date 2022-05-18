@@ -36,24 +36,6 @@ public class BaseTest {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 // this is the uri/uniform resource identifier that is going to be sent to the application running
 // under the spring boot
 // test framework "%d" is the placeholder for the port
